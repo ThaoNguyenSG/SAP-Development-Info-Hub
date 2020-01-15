@@ -2,19 +2,6 @@ Inspired by Michael Kellers [Eclipse ADT info hub](https://github.com/Keller-Mic
 
 # Content
 
-- [ABAP Development IDES](#ABAP-Development-IDES)
-- [ABAP Unit Test](#ABAP-Unit-Test)
-- [ABAP CDS](#ABAP-CDS)
-
-### ABAP Development IDES
-> [SAP Development Info Hub](#SAP-Development-Info-Hub) > [Content](#content) > [This section](#ABAP-Development-IDES)
-
-- [Eclipse](https://github.com/Keller-Michael/Eclipse_ADT_info_hub)
-- VS-Code
-- SE80
-
-### ABAP Unit Test
-> [SAP Development Info Hub](#SAP-Development-Info-Hub) > [Content](#content) > [This section](#ABAP-Unit-Test)
-
-### ABAP CDS
-> [SAP Development Info Hub](#SAP-Development-Info-Hub) > [Content](#content) > [This section](#ABAP-CDS)
+- [ABAP Development IDES](https://github.com/Keller-Michael/Eclipse_ADT_info_hub)
+- [ABAP Unit Test](https://github.com/DennstedtB/SAP-Development-Info-Hub/blob/master/sub%20sections/ABAP%20Unit%20Tests.md)
+- [ABAP CDS](https://github.com/DennstedtB/SAP-Development-Info-Hub/blob/master/sub%20sections/ABAP%20CDS.md)
