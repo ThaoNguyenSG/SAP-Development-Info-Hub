@@ -1,6 +1,7 @@
 # SAP Development Info Hub
 
 Inspired by Michael Kellers [Eclipse ADT info hub](https://github.com/Keller-Michael/Eclipse_ADT_info_hub) this should be an info hub about every SAP development topic. You should find helpful information to start with several topics.
+Everyone is invited to add more blogs and content.
 
 ## Content
 

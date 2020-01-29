@@ -6,6 +6,7 @@ This page shows blog entries about ABAP Git
 
 * [ABAP Git documentation](https://docs.abapgit.org/)
 * [ABAP Git Github Repository](https://github.com/larshp/abapGit)
+* [Dotabap - General overview over ABAP Projects with ABAPGit](https://dotabap.org/)
 
 ## Blogs
 
