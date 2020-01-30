@@ -18,4 +18,4 @@ Everyone is invited to add more blogs and content.
 ## Other intresting Blogs / Github Repositories / Sites / etc
 
 - [Github Repository: Sandraros - Quality SAP Q-A wiki](https://github.com/sandraros/Quality-SAP-Q-A-wiki/blob/master/Home.md)
-- [Stack Overflow - Tags: ABAP, SAP, CDS, SAPUI5](https://stackoverflow.com/questions/tagged/abap+or+sap+or+cds+or+sapui5)
+- [Stack Overflow - Tags: ABAP, SAP, CDS, SAPUI5](https://stackoverflow.com/questions/tagged/abap+or+cds+or+sapui5)
