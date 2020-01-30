@@ -3,6 +3,8 @@
 Inspired by Michael Kellers [Eclipse ADT info hub](https://github.com/Keller-Michael/Eclipse_ADT_info_hub) this should be an info hub about every SAP development topic. You should find helpful information to start with several topics.
 Everyone is invited to add more blogs and content.
 
+If you want to add some knowledge to this repository, but you don't know how you can have a look at this [blog post](https://blogs.sap.com/2020/01/28/github-markdown-visual-studio-code-and-git-to-share-knowledge/) to get an overview how you can contribute to a Github project and work with Markdown-Files. 
+
 ## Content
 
 - [ABAP CDS](sub%20sections/SAP%20Hana/ABAP%20CDS.md)
