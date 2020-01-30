@@ -5,15 +5,16 @@ Everyone is invited to add more blogs and content.
 
 ## Content
 
-- [ABAP CDS](https://github.com/DennstedtB/SAP-Development-Info-Hub/blob/master/sub%20sections/ABAP%20CDS.md)
+- [ABAP CDS](sub%20sections/SAP%20Hana/ABAP%20CDS.md)
 - [ABAP Development IDES](https://github.com/Keller-Michael/Eclipse_ADT_info_hub)
-- [ABAP Git](https://github.com/DennstedtB/SAP-Development-Info-Hub/blob/master/sub%20sections/ABAP%20Git.md)
-- [ABAP Test Cockpit](https://github.com/DennstedtB/SAP-Development-Info-Hub/blob/master/sub%20sections/ABAP%20Test%20Cockpit.md)
-- [ABAP Unit Test](https://github.com/DennstedtB/SAP-Development-Info-Hub/blob/master/sub%20sections/ABAP%20Unit%20Tests.md)
+- [ABAP Git](sub%20sections/ABAP%20Git.md)
+- [ABAP Test Cockpit](sub%20sections/Quality/ABAP%20Test%20Cockpit.md)
+- [ABAP Unit Test](sub%20sections/Quality/ABAP%20Unit%20Tests.md)
 - [ABAP Programming Guidelines](https://github.com/SAP/styleguides/blob/master/clean-abap/CleanABAP.md)
-- [SAP Cloud Platform ABAP environment](https://github.com/DennstedtB/SAP-Development-Info-Hub/blob/master/sub%20sections/SCP%20ABAP%20environment.md)
-- [SAP UI5](https://github.com/DennstedtB/SAP-Development-Info-Hub/blob/master/sub%20sections/SAP%20UI5.md)
-- [ABAP CI](https://github.com/DennstedtB/SAP-Development-Info-Hub/blob/master/sub%20sections/ABAPCI%20gCTS.md)
+- [SAP Cloud Platform ABAP environment](sub%20sections/SCP%20ABAP%20environment.md)
+- [SAP UI5](sub%20sections/SAP%20UI5.md)
+- [ABAP CI](sub%20sections/ABAPCI%20gCTS.md)
+- [AMDP - ABAP Managed Database Procedures](sub%20sections/../sub%20sections/SAP%20Hana/AMDP.md)
 
 ## Other intresting Blogs / Github Repositories / Sites / etc
 
