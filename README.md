@@ -14,3 +14,8 @@ Everyone is invited to add more blogs and content.
 - [SAP Cloud Platform ABAP environment](https://github.com/DennstedtB/SAP-Development-Info-Hub/blob/master/sub%20sections/SCP%20ABAP%20environment.md)
 - [SAP UI5](https://github.com/DennstedtB/SAP-Development-Info-Hub/blob/master/sub%20sections/SAP%20UI5.md)
 - [ABAP CI](https://github.com/DennstedtB/SAP-Development-Info-Hub/blob/master/sub%20sections/ABAPCI%20gCTS.md)
+
+## Other intresting Blogs / Github Repositories / Sites / etc
+
+- [Github Repository: Sandraros - Quality SAP Q-A wiki](https://github.com/sandraros/Quality-SAP-Q-A-wiki/blob/master/Home.md)
+- [Stack Overflow - Tags: ABAP, SAP, CDS, SAPUI5](https://stackoverflow.com/questions/tagged/abap+or+sap+or+cds+or+sapui5)
