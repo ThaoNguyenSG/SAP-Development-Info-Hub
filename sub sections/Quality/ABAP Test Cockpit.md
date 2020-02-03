@@ -11,6 +11,7 @@ You will find some information and blog entries how to set up and use the ABAP T
 
 ## Blogs
 
+* [How to change the priority level in a standard ATC check (2019/12/28) (EN)](https://blogs.sap.com/2019/12/28/how-to-change-the-priority-level-in-a-standard-atc-check/)
 * [Setting up a central ATC-system - the long, long winding road edition (2018/10/22) (EN)](https://blogs.sap.com/2018/10/22/setting-up-a-central-atc-system-the-long-long-winding-road-edition/)
 * [Remote code Analysis in ATC - How to write an ATC check (2018/09/06) (EN)](https://blogs.sap.com/2018/09/06/remote-code-analysis-in-atc-how-to-write-an-atc-check/)
 * [ABAP Test Cockpit(ATC) - Introduction and Steps (2017/08/06) (EN)](https://sapyard.com/abap-test-cockpitatc-introduction-and-steps/)
