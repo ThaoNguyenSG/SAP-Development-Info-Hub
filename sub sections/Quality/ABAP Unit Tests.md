@@ -16,4 +16,4 @@ This page will show you blog entries about ABAP Unit Tests
 
 ## Learning
 
-* [Open SAP Course - Writing Testable Code for ABAP](https://open.sap.com/courses/wtc1)
+* [Writing Testable Code for ABAP - Open SAP Course (2018/03 - 2018/05](https://open.sap.com/courses/wtc1)
