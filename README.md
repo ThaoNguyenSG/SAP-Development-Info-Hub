@@ -8,7 +8,7 @@ If you want to add some knowledge to this repository, but you don't know how you
 ## Content
 
 - [ABAP CDS](sub%20sections/SAP%20Hana/ABAP%20CDS.md)
-- [ABAP Development IDES](https://github.com/Keller-Michael/Eclipse_ADT_info_hub)
+- [ABAP Development IDEs (integrated development environments)](https://github.com/Keller-Michael/Eclipse_ADT_info_hub)
 - [ABAP Git](sub%20sections/ABAP%20Git.md)
 - [ABAP Test Cockpit](sub%20sections/Quality/ABAP%20Test%20Cockpit.md)
 - [ABAP Unit Test](sub%20sections/Quality/ABAP%20Unit%20Tests.md)
