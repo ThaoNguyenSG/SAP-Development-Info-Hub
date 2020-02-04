@@ -4,6 +4,8 @@ This page will give you general information about SAP UI5 and the open source va
 
 ## General Sites
 
+* [OpenUI5 Github Repository](https://github.com/SAP/openui5)
+
 ## Blogs
 
 ## Learning
