@@ -22,3 +22,4 @@ If you want to add some knowledge to this repository, but you don't know how you
 
 - [Github Repository: Sandraros - Quality SAP Q-A wiki](https://github.com/sandraros/Quality-SAP-Q-A-wiki/blob/master/Home.md)
 - [Stack Overflow - Tags: ABAP, CDS, SAPUI5](https://stackoverflow.com/questions/tagged/abap+or+cds+or+sapui5)
+- [SAP Podcasts (not always development related)](https://open.sap.com/pages/podcasts)
