@@ -8,6 +8,7 @@ You will find blogs about ABAP CDS and how to use them
 
 ## Blogs
 
+* [Using CDS views in ABAP code - Part 1 (data selection) (2020/02/10) (EN) ](https://blogs.sap.com/2020/02/10/using-cds-views-in-abap-code-part-1-data-selection/) 
 * [Calculate Average in Analytics Engine (Core Data Services + Analysis for Office) (2020/02/04) (EN)](https://blogs.sap.com/2020/02/04/calculate-average-in-analytics-engine-core-data-services-analysis-for-office/)
 * [How to analyze query performance for abap cds views (2020/01/30) (EN)](https://blogs.sap.com/2020/01/30/how-to-analyze-query-performance-for-abap-cds-views/)
 * [Performance of Add & Aggregate vs Aggregate & Add in CDS Views (2020/01/15)(EN)](https://blogs.sap.com/2020/01/15/performance-of-add-aggregate-vs-aggregate-add-in-cds-views/)
